@@ -1,5 +1,6 @@
-#Web Resume Project
-#Description
+Web Resume Project
+
+Description
 This project is a personal web resume created using HTML, CSS, and JavaScript. It showcases my skills, education, work experience, and projects in an interactive and visually appealing manner.
 
 #Features
